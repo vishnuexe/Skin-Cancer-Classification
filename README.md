@@ -6,4 +6,4 @@ More than 50% of lesions are confirmed through histopathology (histo), the groun
 
 ![Classes](https://github.com/vishnuexe/Skin-Cancer-Classification/blob/master/skin%20cancer.jpg)
 
-![Confusion]()
+![Confusion](https://github.com/vishnuexe/Skin-Cancer-Classification/blob/master/confusion%20matrix.png)
