@@ -4,4 +4,6 @@ HAM10000 ("Human Against Machine with 10000 training images") dataset was used. 
 
 More than 50% of lesions are confirmed through histopathology (histo), the ground truth for the rest of the cases is either follow-up examination (follow_up), expert consensus (consensus), or confirmation by in-vivo confocal microscopy (confocal). The dataset includes lesions with multiple images, which can be tracked by the lesion_id-column within the HAM10000_metadata file.
 
-![Classes]()
+![Classes](https://github.com/vishnuexe/Skin-Cancer-Classification/blob/master/skin%20cancer.jpg)
+
+![Confusion]()
